@@ -53,5 +53,5 @@ We welcome contributions from the community! If you have ideas for new features,
 License
 This project is licensed under the MIT License.
 Contact Us
-For questions, feedback, or support, feel free to contact us at support@birthdaycardgenerator.com.
+For questions, feedback, or support, feel free to contact us at prosper_techsupport@birthdaycardgenerator.com
 Celebrate birthdays in a unique and personal way with the Birthday Card Generator! 🎉🎂
