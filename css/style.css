@@ -186,3 +186,6 @@ aside#sidebar{
     background-color:transparent;
     color: #111;
 }
+#clips li{
+    margin-bottom: 1%;
+}
